@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 091372ed42914111a9dedf043a306493, type: 3}
+  m_Name: Click button 3 times
+  m_EditorClassIdentifier: 
+  UniqueId: eb315e1d-8bc5-4147-b27f-0e7f729cdf5e
+  IsInternal: 0
+  HideFromList: 0
+  Name: 3 clicks
+  _completionActions:
+  - {fileID: 11400000, guid: 7727cab7be0481f4dbb7b1ebe0d7d1f8, type: 2}
+  RawCompleted: 0
+  ActiveState: 0
+  _requireBeforeActive:
+  - {fileID: 11400000, guid: 2019be2e98ff82244b82151ab5d24501, type: 2}
+  _rawTarget: 3
+  Objective: {fileID: 11400000, guid: 514dd206ae804e541920971e9c416c6e, type: 2}
